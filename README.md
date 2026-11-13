@@ -6,7 +6,7 @@
   <p>👉 <strong><a href="https://g-man124.github.io">g-man124.github.io</a></strong></p>
 
   <h3>🛠️ Languages &amp; Tools</h3>
-  <p>Here are the main languages and shells I work with:</p>
+  <p>Here are the main languages and shells I work with:</p>![Animation](script.svg)
   <ul>
     <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Programming:</strong> Python</li>
