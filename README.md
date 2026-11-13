@@ -1,6 +1,3 @@
-- [x] Completed task
-- [ ] Pending task
-
   <h1>Hi there, I'm Grayson 👋</h1>
   <p>Welcome to my GitHub profile! I love building things for the web and automating tasks in the terminal.</p>
 
