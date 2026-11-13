@@ -1,18 +1,31 @@
-# Hi there, I'm Grayson 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grayson's GitHub Profile</title>
+</head>
+<body>
 
-Welcome to my GitHub profile! I love building things for the web and automating tasks in the terminal. 
+  <h1>Hi there, I'm Grayson 👋</h1>
+  <p>Welcome to my GitHub profile! I love building things for the web and automating tasks in the terminal.</p>
 
-### 🚀 Featured Project
-Check out my personal website to see what I've been working on:
-👉 **[g-man124.github.io](https://g-man124.github.io)**
+  <h3>🚀 Featured Project</h3>
+  <p>Check out my personal website to see what I've been working on:</p>
+  <p>👉 <strong><a href="https://g-man124.github.io">g-man124.github.io</a></strong></p>
 
-### 🛠️ Languages & Tools
-Here are the main languages and shells I work with:
+  <h3>🛠️ Languages &amp; Tools</h3>
+  <p>Here are the main languages and shells I work with:</p>
+  <ul>
+    <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>Programming:</strong> Python</li>
+    <li><strong>Shells &amp; Scripting:</strong> Bash, Zsh</li>
+  </ul>
 
-* **Web Development:** HTML, CSS, JavaScript
-* **Programming:** Python
-* **Shells & Scripting:** Bash, Zsh
+  <hr>
 
----
+  <img src="216933749.jpeg" alt="Hacker Image">
 
-![Hacker Image](216933749.jpeg)
+</body>
+</html>
+
