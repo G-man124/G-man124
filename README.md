@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Grayson's GitHub Profile</title>
-</head>
-<body>
-
   <h1>Hi there, I'm Grayson 👋</h1>
   <p>Welcome to my GitHub profile! I love building things for the web and automating tasks in the terminal.</p>
 
@@ -25,7 +16,3 @@
   <hr>
 
   <img src="216933749.jpeg" alt="Hacker Image">
-
-</body>
-</html>
-
