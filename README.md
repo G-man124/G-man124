@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I love building things for the web and writing scr
 ---
 
 ### 🛠️ Languages & Tools
-
 **Web Development:**
 HTML
 CSS
