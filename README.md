@@ -1,8 +1,22 @@
-<h1>Hi, my name is Grayson</h1>
-<p>Welcome to my GitHub profile! I love coding, I usually code with HTML, CSS, and JS.</p>
-<h3>🛠️ Languages &amp; Tools</h3><p>Here are the main languages and shells I work with:</p>
-<ul>
-  <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
-  <li><strong>Programming:</strong> Python</li>
-  <li><strong>Shells &amp; Scripting:</strong> Bash, Zsh</li>
-</ul>
+<div align="center">
+  <h1>Hi, I'm Grayson</h1>
+
+### 👨‍💻 About Me
+Welcome to my GitHub profile! I love building things for the web and writing scripts to automate everyday tasks. Most of my time is spent working with **HTML, CSS, and JavaScript**, alongside **Python** and shell scripting.
+
+---
+
+### 🛠️ Languages & Tools
+
+**Web Development:**
+HTML
+CSS
+JavaScript
+
+**Programming:**
+Python
+
+**Shells & Scripting:**
+Bash
+Zsh
+</div>
